@@ -8,8 +8,6 @@
 
 import Foundation
 
-//print("Hello, World!")
-
 func gcd(_ m: Int, _ n: Int) -> Int {
 
     let a = max(m,n)
